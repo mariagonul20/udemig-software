@@ -1,5 +1,12 @@
 # 🌟 Udemig Software
 
+## 🎥 Proje Tanıtımı
+
+Aşağıdaki GIF, projenin genel görünümünü göstermektedir:
+![EkranKayd2025-06-23200330-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9f571d54-363b-46e4-8a3a-e34fe2e6e02e)
+
+
+
 Udemig Software, HTML ve CSS ile oluşturulmuş, sayfa sayfa yapılandırılmış ve tüm cihazlarla uyumlu (responsive) bir web arayüzü projesidir. Kullanıcı dostu tasarımı ve sade kod yapısıyla, eğitim ve yazılım alanlarında kullanılabilecek modern bir örnek sunar.
 
 ---
@@ -24,9 +31,3 @@ Udemig Software, HTML ve CSS ile oluşturulmuş, sayfa sayfa yapılandırılmı�
 | Responsive ||
 
 ---
-
-## 🎥 Proje Tanıtımı
-
-Aşağıdaki GIF, projenin genel görünümünü göstermektedir:
-![EkranKayd2025-06-23200330-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9f571d54-363b-46e4-8a3a-e34fe2e6e02e)
-
